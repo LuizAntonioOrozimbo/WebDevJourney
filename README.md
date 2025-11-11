@@ -1,2 +1,2 @@
 # WebDevJourney
-Repositório para estudos e aprendizado no desenvolvimento das tenoligias Web: HTML, CSS e JavaScript
+Repositório para estudos e aprendizado no desenvolvimento das tecnologias Web: HTML, CSS e JavaScript
