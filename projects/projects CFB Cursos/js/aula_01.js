@@ -1,4 +1,4 @@
 //
 //
 //
-console.log"Alô Mundo!";
+console.log("Alô Mundo!");
