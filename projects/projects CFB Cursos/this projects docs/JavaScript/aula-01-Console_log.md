@@ -105,4 +105,5 @@ Espaços entre comando e ()	❌ (evite)	O JS aceita, mas não é boa prática.
 💬 Exemplo final — forma ideal:
 console.log("Olá Mundo");
 
+
 Se quiser, posso te mostrar outros exemplos de console.log(), como exibir números, variáveis ou múltiplos valores juntos — quer que eu mostre isso na sequência?
