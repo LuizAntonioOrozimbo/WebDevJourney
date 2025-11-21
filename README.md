@@ -13,16 +13,16 @@ Aqui eu registro minha jornada: cursos, projetos, exercícios, anotações, test
 Essa é a **versão essencial**, leve e expansível.
 Use como base e crie novas pastas apenas quando fizer sentido no seu aprendizado.
 
-WebDevJourney/
-├── README.md
-├── docs/
-├── courses/
-├── tutorials/
-├── projects/
-├── snippets/
-├── tests/
-├── assets/
-└── .gitignore
+WebDevJourney/  
+├── README.md  
+├── docs/  
+├── courses/  
+├── tutorials/  
+├── projects/  
+├── snippets/  
+├── tests/  
+├── assets/  
+└── .gitignore  
 
 ## 📘 Descrição breve de cada pasta
 
@@ -64,14 +64,14 @@ Criar um repositório que sirva como:
 ## 🗂️ Estrutura Geral
 
 WebDevJourney/
-├── docs/ → Documentos gerais, referências e anotações de base
-├── courses/ → Conteúdos organizados por curso
-├── tutorials/ → Materiais avulsos e guias externos
-├── projects/ → Projetos práticos e pessoais
-├── snippets/ → Códigos úteis e reaproveitáveis
-├── tests/ → Testes diversos, experimentos e playground
-├── assets/ → Imagens, logos, ícones e arquivos estáticos
-└── README.md → Este arquivo
+├── docs/ → Documentos gerais, referências e anotações de base  
+├── courses/ → Conteúdos organizados por curso  
+├── tutorials/ → Materiais avulsos e guias externos  
+├── projects/ → Projetos práticos e pessoais  
+├── snippets/ → Códigos úteis e reaproveitáveis  
+├── tests/ → Testes diversos, experimentos e playground  
+├── assets/ → Imagens, logos, ícones e arquivos estáticos  
+└── README.md → Este arquivo  
 
 
 
