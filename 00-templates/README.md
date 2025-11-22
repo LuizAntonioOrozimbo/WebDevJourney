@@ -109,22 +109,22 @@ Você é livre para ajustá-los totalmente conforme sua forma de estudar evoluir
 
 ## 🧱 Estrutura atual
 
-00-templates/
-├── folder-structures/
-│ ├── base-project/
-│ ├── base-course/
-│ ├── base-lessons/
-│ ├── base-exercises/
-│ └── tree-view/ ← contém o HTML + CSS de visualização
+00-templates/  
+├── folder-structures/  
+│ ├── base-project/  
+│ ├── base-course/  
+│ ├── base-lessons/  
+│ ├── base-exercises/  
+│ └── tree-view/ ← contém o HTML + CSS de visualização  
+│  
+├── readme-templates/  
+│ ├── readme-course.md  
+│ ├── readme-lesson.md  
+│ ├── readme-project.md  
+│ └── readme-generic.md  
 │
-├── readme-templates/
-│ ├── readme-course.md
-│ ├── readme-lesson.md
-│ ├── readme-project.md
-│ └── readme-generic.md
-│
-└── misc/
-└── modelos-diversos.md
+└── misc/  
+└── modelos-diversos.md  
 
 Você poderá expandir esta estrutura conforme o avanço dos estudos.
 
@@ -225,22 +225,22 @@ Separar esses arquivos por tipo (HTML, JS, CSS) só faz sentido em **documentaç
 
 Exemplo usando o **CFB Cursos**:
 
-courses/
-└── cfb/
-    ├── aula01/
-    │   ├── index.html
-    │   ├── script.js
-    │   └── style.css
-    ├── aula02/
-    │   ├── index.html
-    │   └── script.js
-    ├── aula03/
-    │   ├── projeto-relógio/
-    │   │   ├── index.html
-    │   │   ├── app.js
-    │   │   ├── style.css
-    │   │   └── assets/
-    │   └── anotacoes.md
+courses/  
+└── cfb/  
+    ├── aula01/  
+    │   ├── index.html  
+    │   ├── script.js  
+    │   └── style.css  
+    ├── aula02/  
+    │   ├── index.html  
+    │   └── script.js  
+    ├── aula03/  
+    │   ├── projeto-relógio/  
+    │   │   ├── index.html  
+    │   │   ├── app.js  
+    │   │   ├── style.css  
+    │   │   └── assets/  
+    │   └── anotacoes.md  
     └── README.md
 
 ### Ou seja
