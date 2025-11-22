@@ -12,6 +12,7 @@ O termo **“misc”** vem de **“miscellaneous”**, que significa **misturado
 - ou simplesmente não pertencem a nenhum outro template
 
 ## 📌 Exemplos do que pode ir aqui
+
 - Templates de README incomuns  
 - Modelos de arquivos para testes rápidos  
 - Estruturas que você está avaliando criar  
@@ -20,6 +21,7 @@ O termo **“misc”** vem de **“miscellaneous”**, que significa **misturado
 - Templates que ainda não têm uma pasta própria
 
 ## 🎯 Objetivo
+
 Manter um espaço organizado e flexível para expandir a área de templates sem poluir a raiz de `00-templates`.
 
 Quando algum item da pasta `misc/` se tornar importante e recorrente, você poderá:

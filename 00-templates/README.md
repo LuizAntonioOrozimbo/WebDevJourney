@@ -6,6 +6,7 @@ O objetivo é padronizar e agilizar meu fluxo de estudo, evitando repetição ma
 Cada template serve como ponto de partida e pode ser copiado para qualquer pasta do repositório **WebDevJourney**.
 
 Esta pasta reúne **templates reutilizáveis** de:
+
 - Estruturas de pastas (folder-structures)
 - Arquivos-base (README, index.html, app.js etc.)
 - Modelos para cursos, aulas, exercícios e projetos
@@ -16,13 +17,14 @@ O objetivo é garantir **padronização, clareza e rapidez** na criação de nov
 
 ---
 
-
 ## 📦 Estrutura dos Templates
 
 Atualmente, os seguintes modelos estão disponíveis:
 
 ### 1. `aula/`
+
 Modelo para aulas simples, contendo:
+
 - `index.html`
 - `app.js`
 - `style.css`
@@ -34,7 +36,9 @@ Ideal para acompanhar cursos (CFB Cursos, Curso em Vídeo, Udemy etc).
 ---
 
 ### 2. `exercicio/`
+
 Modelo para exercícios práticos:
+
 - `index.html`
 - `script.js`
 - `style.css`
@@ -44,7 +48,9 @@ Modelo para exercícios práticos:
 ---
 
 ### 3. `projeto-basico/`
+
 Modelo para pequenos projetos:
+
 - Estrutura HTML + CSS + JS
 - Pastas separadas (`css`, `js`, `assets`)
 - `notes.md` para decisões e progresso
@@ -52,7 +58,9 @@ Modelo para pequenos projetos:
 ---
 
 ### 4. `projeto-completo/`
+
 Template mais avançado:
+
 - Estrutura estilo “mini aplicação”
 - `src/` com subpastas
 - `components/`
@@ -72,6 +80,7 @@ Template mais avançado:
 ---
 
 ## 📌 Filosofia da Pasta Templates
+
 - Não é obrigatório usar todos os modelos  
 - Você pode criar **novos templates** conforme precisar  
 - O objetivo é ter algo **prático e claro**, não complicado  
@@ -80,6 +89,7 @@ Template mais avançado:
 ---
 
 ## 🌱 Expansões Futuras (sugestões)
+
 - Template para projetos React  
 - Template Node.js  
 - Template com Vite  
@@ -89,13 +99,13 @@ Template mais avançado:
 ---
 
 ## 📝 Observação Importante
+
 Esses templates servem como base.  
 Você é livre para ajustá-los totalmente conforme sua forma de estudar evoluir.
 
 > “Templates são atalhos para a produtividade — mas sempre sob o seu controle.”
 
-# README Parte 2
-
+## README Parte 2
 
 ## 🧱 Estrutura atual
 
@@ -115,7 +125,6 @@ Você é livre para ajustá-los totalmente conforme sua forma de estudar evoluir
 │
 └── misc/
 └── modelos-diversos.md
-
 
 Você poderá expandir esta estrutura conforme o avanço dos estudos.
 
@@ -176,14 +185,14 @@ Mantendo tudo padronizado, você:
   **“Isso merece virar um template?”**
 - Separe templates por categorias  
 - Versione mudanças significativas para comparar evoluções  
-- Mantenha um changelog simples se necessário  
+
+- Mantenha um changelog simples se necessário
 
 ---
 
+## README Parte 3
 
-# README Parte 3
-
-# 💡 ✔️ Regra de ouro: HTML + CSS + JS que pertencem ao mesmo exercício devem ficar juntos.
+## 💡 ✔️ Regra de ouro: HTML + CSS + JS que pertencem ao mesmo exercício devem ficar juntos
 
 Separar assim…
 
@@ -212,7 +221,6 @@ Eles pertencem ao mesmo contexto, ao mesmo exercício.
 
 Separar esses arquivos por tipo (HTML, JS, CSS) só faz sentido em **documentação**, não em **projetos reais**.
 
-
 ## 📁 ✔️ Como deve ser a estrutura correta dentro de um curso
 
 Exemplo usando o **CFB Cursos**:
@@ -235,7 +243,7 @@ courses/
     │   └── anotacoes.md
     └── README.md
 
-### Ou seja:
+### Ou seja
 
 👉 **Cada aula, exercício ou projeto fica completo na sua própria pasta**.
 👉 Nada de deixar HTML em uma pasta e JS em outra.
@@ -285,8 +293,6 @@ Isso te dá:
 
 - evolução muito mais natural
 
-
 ✦ *Esta pasta vai crescer junto com seu conhecimento.*
 
 ✦ *Este README, contém três partes para serem lidas, analizadas e depois unificadas, gerando um arquivo mais claro e conciso.*
-

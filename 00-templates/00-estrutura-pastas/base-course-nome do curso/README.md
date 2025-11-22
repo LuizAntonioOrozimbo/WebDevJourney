@@ -12,35 +12,41 @@ nome-do-curso/
     │   ├── imagens...
     │   └── icones...
     └── extras/
+
         ├── anotações.md
+
         └── versões-anteriores/
 
-
-# 🧪 Aula/Exercício: Nome da Aula
+## 🧪 Aula/Exercício: Nome da Aula
 
 ## 🎯 Objetivo
+
 Explique brevemente o propósito desta aula:
+
 - qual conceito foi aprendido,
 - qual problema foi resolvido,
 - por que isso é importante.
 
 Exemplo:
 > Nesta aula aprendemos como utilizar `console.log()` para exibir mensagens e valores no console do navegador. Também entendemos como ligar um arquivo JavaScript a um HTML.
-
 ---
 
 ## 📂 Estrutura dos Arquivos
 
 index.html → estrutura HTML da aula
-style.css → estilos relacionados (opcional)
-script.js → código JavaScript da aula
-assets/ → imagens, logos e arquivos estáticos
-extras/ → anotações ou versões antigas
 
+style.css → estilos relacionados (opcional)
+
+script.js → código JavaScript da aula
+
+assets/ → imagens, logos e arquivos estáticos
+
+extras/ → anotações ou versões antigas
 
 ---
 
 ## 🧠 Conceitos Aprendidos
+
 Liste os pontos importantes aqui:
 
 - Como funciona o `<script>` no HTML  
@@ -55,25 +61,28 @@ Liste os pontos importantes aqui:
 ## 🧑‍💻 Código Principal
 
 ### 📄 *index.html*
-```html
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Aula 01</title>
-</head>
-<body>
-  <h1>Teste de Console</h1>
-  <script src="script.js"></script>
-</body>
-</html>
 
+    ```html
+        <!DOCTYPE html>
+        <html lang="pt-BR">
+        <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Aula 01</title>
+        </head>
+        <body>
+        <h1>Teste de Console</h1>
+        
+        <script src="script.js"></script> 
+        </body>
+        </html>
+    ```
 
 ### 📄 script.js
 
-console.log("Olá, mundo!");
-
+    ```js
+        console.log("Olá, mundo!");
+    ```
 
 ## 📝 Notas da Aula
 
@@ -84,7 +93,6 @@ console.log("Olá, mundo!");
 - Dúvidas que surgirem
 
 - Links importantes
-
 
 ## 🚀 Resultado
 
@@ -98,10 +106,9 @@ Abrir o console do navegador (F12 → Console) e ver a mensagem **“Olá, mundo
 
 - Documentação relacionada
 
-
 ---
 
-# 🧩 **QUANDO USAR ESSA ESTRUTURA?**
+## 🧩 **QUANDO USAR ESSA ESTRUTURA?**
 
 Use sempre que for:
 
@@ -117,11 +124,12 @@ Não importa se é pequeno: **tudo que tem HTML/CSS/JS juntos fica na mesma past
 
 ---
 
-# 🧩 **E QUANDO SEPARAR POR TECNOLOGIA?**
+## 🧩 **E QUANDO SEPARAR POR TECNOLOGIA?**
 
 A separação por tecnologia deve existir apenas em:
 
 ### ✔ Documentação teórica → `/docs/...`
+
 - HTML  
 - CSS  
 - JavaScript  
@@ -131,6 +139,7 @@ A separação por tecnologia deve existir apenas em:
 - etc.
 
 ### ✔ Snippets → `/snippets/...`
+
 Blocos curtos, úteis e reaproveitáveis:
 
 - funções prontas  
@@ -140,7 +149,8 @@ Blocos curtos, úteis e reaproveitáveis:
 - trechos de HTML  
 - exemplos comuns  
 
-### ❌ Nunca separar arquivos práticos (HTML/JS/CSS) que pertencem à MESMA aula  
+### ❌ Nunca separar arquivos práticos (HTML/JS/CSS) que pert
+
 Porque isso quebra o contexto e dificulta rodar.
 
 ---

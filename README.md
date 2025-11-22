@@ -5,8 +5,7 @@ Aqui eu registro minha jornada: cursos, projetos, exercícios, anotações, test
 
 ---
 
-# 📖 Primeira Parte deste README
-
+## 📖 Primeira Parte deste README
 
 ## ✅ (1) Estrutura Minimalista Modelo – WebDevJourney
 
@@ -26,7 +25,6 @@ WebDevJourney/
 
 ## 📘 Descrição breve de cada pasta
 
-
 | Pasta         | Função                                                                                                 |
 | ------------- | ------------------------------------------------------------------------------------------------------ |
 | **docs**      | Documentos gerais, anotações amplas, referências, ideias, tudo que não pertence a um curso específico. |
@@ -37,12 +35,12 @@ WebDevJourney/
 | **tests**     | Testes gerais (de tecnologia, bibliotecas, experimentos rápidos).                                      |
 | **assets**    | Imagens, ícones, fontes e arquivos estáticos compartilhados.                                           |
 
-
 ## ✅ (2) README Raiz do Repositório – WebDevJourney
 
 Esse vai na raiz do repositório e funciona como apresentação oficial do projeto no GitHub.
 
-# 🌐 WebDevJourney
+## 🌐 Sobre o Projeto
+
 **Minha jornada completa de aprendizado em Desenvolvimento Web.**
 
 Este repositório reúne **tudo o que estudo, pratico, anoto e desenvolvo** enquanto evoluo no mundo do desenvolvimento web.  
@@ -51,6 +49,7 @@ Ele é organizado de maneira modular, permitindo que eu cresça a estrutura conf
 ---
 
 ## 🎯 Objetivo
+
 Criar um repositório que sirva como:
 
 - **Ambiente de estudo organizado**
@@ -73,13 +72,12 @@ WebDevJourney/
 ├── assets/ → Imagens, logos, ícones e arquivos estáticos  
 └── README.md → Este arquivo  
 
-
-
 Cada pasta possui seu próprio **README** para facilitar navegação e entendimento.
 
 ---
 
 ## 🚀 Como este repositório evolui
+
 1. **Só crio novas pastas conforme avanço.**  
 2. **Cada conteúdo recebe anotações próprias.**  
 3. **Testes e experimentos viram mini-projetos.**  
@@ -88,6 +86,7 @@ Cada pasta possui seu próprio **README** para facilitar navegação e entendime
 ---
 
 ## 📚 Tecnologias abordadas
+
 - HTML, CSS, JavaScript  
 - React, Node, Git/GitHub  
 - Ferramentas do VSCode  
@@ -97,6 +96,7 @@ Cada pasta possui seu próprio **README** para facilitar navegação e entendime
 ---
 
 ## 🧭 Filosofia
+
 > “Organização também é aprendizado.”
 
 Este repositório não é apenas para códigos, mas também para **pensamentos, correções, testes, erros e descobertas**.
@@ -104,6 +104,7 @@ Este repositório não é apenas para códigos, mas também para **pensamentos, 
 ---
 
 ## ✨ Próximos Passos
+
 - Incrementar READMEs individuais  
 - Criar projetos práticos crescentes  
 - Registrar avanços com clareza  
@@ -112,6 +113,7 @@ Este repositório não é apenas para códigos, mas também para **pensamentos, 
 ---
 
 ## 📩 Contato
+
 Repositório pessoal de estudos — aberto para referência, consulta e evolução contínua.
 
 ## ✅ (3) README da Pasta /docs
@@ -119,7 +121,8 @@ Repositório pessoal de estudos — aberto para referência, consulta e evoluç�
 Essa pasta é o seu **repositório central de conhecimento**.
 Conforme você estudar mais, ela cresce e fica cada vez mais valiosa.
 
-# 🗂️ Pasta `docs/`
+## 🗂️ Pasta `docs/`
+
 Documentos gerais, notas amplas e materiais de referência que não pertencem a um curso ou tutorial específico.
 
 Aqui mantenho tudo o que é útil para meus estudos, incluindo:
@@ -137,6 +140,7 @@ Aqui mantenho tudo o que é útil para meus estudos, incluindo:
 ---
 
 ## 📁 Organização interna
+
 Os documentos podem ser organizados por assunto, como:
 
 docs/
@@ -147,8 +151,6 @@ docs/
 ├── git/
 ├── conceitos/
 └── diversos/
-
-
 
 Mas esta estrutura pode mudar conforme a necessidade.  
 O objetivo é manter aqui **tudo que ajuda na jornada**, sem regras rígidas.
@@ -166,15 +168,14 @@ O objetivo é manter aqui **tudo que ajuda na jornada**, sem regras rígidas.
 ---
 
 ## 🎯 Objetivo da pasta
+
 Servir como um **hub universal de conhecimento**, um espaço onde posso colocar qualquer informação que me ajude no aprendizado, sem me preocupar inicialmente com classificação.
 
 Se no futuro um assunto crescer demais, ele pode ganhar uma pasta própria ou ser movido para outra área do repositório.
 
+## Segunda Parte deste README
 
-# Segunda Parte deste README
-
-
-# 📂 Estrutura Geral do Repositório
+## 📂 Estrutura Geral do Repositório
 
 Para facilitar navegação, tudo neste repositório segue um **padrão de organização numérica**, onde:
 
@@ -216,7 +217,7 @@ Essa estrutura pode crescer conforme a necessidade.
 
 ---
 
-# 🎯 Filosofia do Repositório
+## 🎯 Filosofia do Repositório
 
 Este repositório é construído com a ideia de que:
 
@@ -235,7 +236,7 @@ Por isso, cada pasta segue um propósito claro:
 
 ---
 
-# 🧭 Como usar este repositório
+## 🧭 Como usar este repositório
 
 1. **Comece pela pasta 00-templates**  
    Copie a estrutura para cursos, aulas, projetos etc.
@@ -251,14 +252,14 @@ Por isso, cada pasta segue um propósito claro:
 
 ---
 
-# 🚀 Evolução Contínua
+## 🚀 Evolução Contínua
 
 Este repositório será constantemente revisado e melhorado.  
 Cada fase do aprendizado ampliará sua estrutura, seus tópicos e sua profundidade.
 
 ---
 
-# 📌 Meta Final
+## 📌 Meta Final
 
 Criar um repositório que funcione como:
 
@@ -272,54 +273,51 @@ Criar um repositório que funcione como:
 **Vamos em frente.  
 Cada pasta criada é um passo na jornada.**  
 
-
-
-# Terceira parte deste README
-
+## Terceira parte deste README
 
 ## ✅ Construir a estrutura com propósito, não só porque existe
 
 Organizar conforme **você for aprendendo** é o que torna o repositório realmente seu, útil e vivo.
 Isso evita o risco de ter um repositório enorme, cheio de coisas que você não usa.
 
-##🧩 Como seguir da melhor forma
+## 🧩 Como seguir da melhor forma
 
 Uma estratégia perfeita é:
 
 1. Manter a estrutura-base como referência (não como obrigação)
 
-Use os READMEs que criamos como pontos de partida, não como regras.
-Eles são um mapa — você decide o caminho.
+   Use os READMEs que criamos como pontos de partida, não como regras.
+   Eles são um mapa — você decide o caminho.
 
 2. Criar pastas somente quando precisar
 
-Exemplo real:
+   Exemplo real:
 
-- começou um curso → cria /courses/nome-do-curso
+   - começou um curso → cria /courses/nome-do-curso
 
-- começou um tutorial → cria /tutorials/nome-da-fonte
+   - começou um tutorial → cria /tutorials/nome-da-fonte
 
-- precisa testar algo → cria /tests/nome-do-teste
+   - precisa testar algo → cria /tests/nome-do-teste
 
-- precisa guardar um snippet → cria /snippets/nome-da-linguagem
+   - precisa guardar um snippet → cria /snippets/nome-da-linguagem
 
-Assim, tudo nasce porque **você tem um motivo real**.
+   Assim, tudo nasce porque **você tem um motivo real**.
 
 3. Ajustar cada README para refletir sua experiência real
 
-Os READMEs que te entreguei são modelos profissionais, mas cada um pode (e deve) ser personalizado:
+   Os READMEs que te entreguei são modelos profissionais, mas cada um pode (e deve) ser personalizado:
 
-- adicionar anotações reais
+   - adicionar anotações reais
 
-- incluir exemplos que você usou
+   - incluir exemplos que você usou
 
-- registrar dificuldades e soluções
+   - registrar dificuldades e soluções
 
-- colocar links úteis
+   - colocar links úteis
 
-- documentar seu entendimento
+   - documentar seu entendimento
 
-Isso transforma o repositório num **caderno de estudo de alto nível**.
+   Isso transforma o repositório num **caderno de estudo de alto nível**.
 
 4. Remover tudo e adicionar aos poucos é perfeito
 
@@ -335,7 +333,6 @@ Você volta só com o que:
 - tem um propósito
 
 Isso elimina clutter, ansiedade e te dá clareza total.
-
 
 ✦ *Esta pasta vai crescer junto com seu conhecimento.*
 
